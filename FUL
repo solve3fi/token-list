@@ -1,0 +1,11 @@
+assets/mainnet/2UzLRyok52arWwMA6V8NbThadYgk4UwPz5GgxCYsQU94/logo.png
+
+assets/mainnet/2UzLRyok52arWwMA6V8NbThadYgk4UwPz5GgxCYsQU94/info.json
+
+{
+  "name": "Fruchtlabor",
+  "symbol": "FUL",
+  "decimals": 9,
+  "logoURI": "https://gateway.pinata.cloud/ipfs/bafybeicnsw6rglkztnf6c5md5oh4l4pite3hvcymlxzuaylivfzoar7ypy",
+  "tags": ["community", "utility"]
+}
