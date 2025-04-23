@@ -18532,6 +18532,22 @@
       "tags": [],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2UzLRyok52arWwMA6V8NbThadYgk4UwPz5GgxCYsQU94",
+      "symbol": "FUL",
+      "name": "Fruchtlabor",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/GERMANKBR/token-list/main/assets/mainnet/2UzLRyok52arWwMA6V8NbThadYgk4UwPz5GgxCYsQU94/logo.png",
+      "tags": [
+        "meme",
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://fruchtlabor.netlify.app",
+        "twitter": "https://twitter.com/fruchtlaborcryp"
+      }
     }
   ],
   "version": {
