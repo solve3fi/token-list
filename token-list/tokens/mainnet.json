@@ -1,0 +1,10 @@
+{
+  "name": "TerraRoot",
+  "symbol": "TRRT",
+  "address": "B7TxomcUTEWy5rzLskXnhM5aPxfQMKdHHA9JuErgHxnJ",
+  "decimals": 8,
+  "logoURI": "https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/token-list/main/assets/mainnet/B7TxomcUTEWy5rzLskXnhM5aPxfQMKdHHA9JuErgHxnJ/logo.png",
+  "tags": [
+    "utility-token"
+  ]
+}
