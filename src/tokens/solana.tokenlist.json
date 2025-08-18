@@ -1660,25 +1660,19 @@
     },
     {
       "chainId": 101,
-      "address": "3kHwk8N4c3j1Jtq28v5sFpvX6DBBcB6L4D6xqq6LhULh",
-      "symbol": "GGG",
-      "name": "Good Games Guild",
+      "address": "mo7mapMrCsyci5w1td1wgrKPtNeCfjfkKi96DknWi5N",
+      "symbol": "CATBAT",
+      "name": "CATBAT",
       "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3kHwk8N4c3j1Jtq28v5sFpvX6DBBcB6L4D6xqq6LhULh/logo.png",
+      "logoURI": "https://github.com/solve3fi/token-list/blob/main/assets/mainnet/mo7mapMrCsyci5w1td1wgrKPtNeCfjfkKi96DknWi5N/mo7mapMrCsyci5w1td1wgrKPtNeCfjfkKi96DknWi5N.PNG?raw=true",
       "tags": [
-        "GameFi",
-        "NFT",
-        "dao",
-        "utility-token",
-        "meta-verse",
-        "governance"
+        "Meme"
       ],
       "extensions": {
-        "website": "https://goodgamesguild.com",
-        "twitter": "https://twitter.com/goodgamesguild",
-        "medium": "https://medium.com/@goodgamesguild/",
-        "telegram": "https://t.me/GoodGamesGuildChat",
-        "discord": "https://discord.gg/x47U9qkR5K"
+        "website": "https://www.catbat.meme/",
+        "twitter": "https://x.com/catbatcoin",
+        "medium": "https://medium.com/@catbatmeme",
+        "telegram": "https://t.me/CATBATPORTAL",
       }
     },
     {
