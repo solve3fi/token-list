@@ -38,7 +38,7 @@ test('Token list can exclude by a chain', async (t) => {
 
 test('Token list returns new object upon filter', async (t) => {
   const list = await new TokenListProvider().resolve(Strategy.Static);
-  const filtered = list.filterByChainId(ENV.MainnetBeta);
+  const filtered = list.filterByChainId(ENV.Testnet); // Use Testnet instead of MainnetBeta
   t.true(list !== filtered);
   t.true(list.getList().length !== filtered.getList().length);
 });
